@@ -1,0 +1,197 @@
+@media only screen and (max-width:1300px) {
+    .offset-1 {
+        margin-left: 0%;
+    }
+
+    .col-auto {
+
+        width: 45%;
+    }
+}
+
+@media only screen and (max-width:991px) {
+
+
+    .nav1 {
+        display: none;
+    }
+
+    .col-auto {
+        width: auto;
+    }
+
+    .navmain {
+        padding-left: 40px;
+    }
+
+    .rnav {
+        padding-right: 30px;
+    }
+
+    
+
+    .page1C {
+        height: 90vh;
+        margin-bottom: 30px;
+
+    }
+
+    .pageheader h1 {
+        font-size: 50px;
+        font-weight: 700;
+        padding-bottom: 8px;
+
+    }
+
+    .pageheader h2 {
+        font-size: 20px;
+        padding-bottom: 8px;
+        letter-spacing: 3px;
+
+    }
+
+
+    .pageheader p {
+        font-size: 15px;
+        color: rgba(39, 60, 117, 1.0);
+        padding-bottom: 8px;
+
+
+    }
+
+    .pageheader button {
+        font-size: 15px;
+
+    }
+
+    .aboutusC {
+        background-color: rgba(0, 148, 50, 1.0);
+        padding: 100px;
+
+    }
+
+
+
+
+
+    .aboutusC h1 {
+        font-size: 35px;
+
+        padding-top: 5px;
+        padding-bottom: 5px;
+      
+
+    }
+
+    .aboutusC p {
+        font-size: 18px;
+        padding-bottom: 10px;
+
+    }
+
+    .readbtn {
+        font-size: 15px;
+        margin-top: 8px;
+        padding-right: 40px;
+        padding-left: 40px;
+       
+
+    }
+
+    
+.cardC h1{
+    font-size: 50px;
+    padding-bottom: 8px;
+}
+}
+
+
+
+
+@media only screen and (max-width:576px) {
+
+
+    .nav1 {
+        display: none;
+    }
+
+    .col-auto {
+        width: auto;
+    }
+
+    .navmain {
+        padding-left: 30px;
+    }
+
+    .rnav {
+        padding-right: 30px;
+    }
+
+
+
+    .page1C {
+        height: 50vh;
+
+    }
+
+
+
+    .pageheader h1 {
+        font-size: 35px;
+        padding-bottom: 5px;
+
+    }
+
+    .pageheader h2 {
+        font-size: 15px;
+        padding-bottom: 8px;
+        letter-spacing: 3px;
+
+    }
+
+
+    .pageheader p {
+        font-size: 13px;
+       
+        padding-bottom: 5px;
+
+
+    }
+
+    .pageheader button {
+        font-size: 12px;
+
+    }
+
+
+    #img1 {
+        height: 45dvh;
+        width: 45dvh;
+        margin-bottom: 10px;
+    }
+
+
+    .aboutusC p {
+        font-size: 15px;
+        padding-bottom: 0px;
+    }
+
+    .aboutusC {
+        background-color: rgba(0, 148, 50, 1.0);
+        padding: 50px;
+
+    }
+
+    .cardC h1 {
+        font-size: 35px;
+        padding-bottom: 0px;
+    }
+
+
+
+    .img-fluid1{
+        height: 300px !important;
+        width: 200px !important;
+    }
+
+}
